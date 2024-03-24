@@ -1,0 +1,80 @@
+main{
+    background-color: #FFFF;
+    color: #2B283A;
+    font-family: 'Inter', sans-serif;
+    height: 800px;
+    width: 600px;
+    position: fixed;
+
+}
+
+p{
+    color: #2B283A;
+    font-size: 12px;
+    font-weight: 100;
+    width: 350px;
+    margin-top: 5px;
+}
+h2{
+    font-size: 13px;
+    letter-spacing: 0.3em;
+    display: flex;
+}
+
+h1{
+    font-size: 25px;
+    font-weight: 600;
+}
+a{
+    color: #918E9B;
+    text-decoration: underline;
+    margin-left: 20px;
+    letter-spacing: 0;
+}
+
+.Japan{
+    display: flex;
+    margin-left: 30px;
+    margin-top: 40px;
+}
+
+.Australia{
+    display: flex;
+    margin-left: 30px;
+    margin-top: 40px;
+}
+
+.Norway{
+    display: flex;
+    margin-left: 30px;
+    margin-top: 40px;
+}
+.texts{
+    margin-left: 30px;
+}
+h3{
+    margin-top: 15px;
+    font-size: 12px;
+    font-weight: 600;
+}
+.yerpng{
+    margin-top: 3px;
+    margin-right: 3px;
+}
+.sydneyphoto{
+    border-radius: 7px;
+    width: 126px;
+    height: 168px;
+}
+
+.norwaypng{
+    border-radius: 7px;
+    width: 126px;
+    height: 168px;
+}
+
+.japanpng{
+    border-radius: 7px;
+    width: 126px;
+    height: 168px;
+}
